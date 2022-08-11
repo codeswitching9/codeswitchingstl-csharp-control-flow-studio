@@ -1,0 +1,15 @@
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\bin\Debug\net6.0\csharp-control-flow-studio.exe
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\bin\Debug\net6.0\csharp-control-flow-studio.deps.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\bin\Debug\net6.0\csharp-control-flow-studio.runtimeconfig.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\bin\Debug\net6.0\csharp-control-flow-studio.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\bin\Debug\net6.0\csharp-control-flow-studio.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.csproj.AssemblyReference.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.AssemblyInfoInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.AssemblyInfo.cs
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.csproj.CoreCompileInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\refint\csharp-control-flow-studio.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\csharp-control-flow-studio.genruntimeconfig.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-control-flow-studio\csharp-control-flow-studio\csharp-control-flow-studio\obj\Debug\net6.0\ref\csharp-control-flow-studio.dll
